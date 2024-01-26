@@ -1,4 +1,6 @@
 # GoogleTest
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2Fgoogletest.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2Fgoogletest?ref=badge_shield)
+
 
 ### Announcements
 
@@ -144,3 +146,7 @@ Please read
 for details on how to contribute to this project.
 
 Happy testing!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2Fgoogletest.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2Fgoogletest?ref=badge_large)
